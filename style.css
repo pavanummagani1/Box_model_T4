@@ -29,12 +29,12 @@
     display: inline-block;
 }
 .section-1{
-    width: 330px;
+    width: 300px;
     margin-right: 35px;
     background-color: bisque;
 }
 .section-2{
-    width: 180px;
+    width: 150px;
     background-color: thistle;
 }
 .footer{
