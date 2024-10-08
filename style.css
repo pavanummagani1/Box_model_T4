@@ -1,0 +1,44 @@
+.container{
+    width: 600px;
+    border-style: solid;
+    border-width: 5px;
+}
+.header-container{
+    height: 100px;
+    margin: 10px;
+    border-width: 3px;
+    border-style: solid;
+}
+.header-section{
+    height: 80px;
+    width: 80px;
+    border-width: 3px;
+    border-style: solid;
+    display: inline-block;
+    margin: 10px;
+    background-color: tomato;
+}
+.hsection-2, .hsection-3{
+    margin-left: 130px;
+}
+.section{
+    height: 300px;
+    border-style: solid;
+    border-width: 3px;
+    margin: 10px;
+    display: inline-block;
+}
+.section-1{
+    width: 350px;
+    background-color: bisque;
+}
+.section-2{
+    width: 195px;
+    background-color: thistle;
+}
+.footer{
+    height: 100px;
+    margin: 15px;
+    border-style: solid;
+    background-color: steelblue;
+}
